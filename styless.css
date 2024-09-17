@@ -1,0 +1,35 @@
+</head>
+
+<body>
+    <h1>Com o Combo+, você pode aproveitar a Alura+ e o Alura Língua por um preço único.</h1>
+    <section class="principal container">
+        <h1>Com o Combo+, você pode aproveitar a Alura+ e o Alura Língua por um preço único.</h1>
+        <img src="img/Combo.png" alt="O combo+ é a junção do alura+ e o alura língua">
+    </section>
+</body>
+
+</html>
+  11 changes: 10 additions & 1 deletion11  
+styles.css
+Copied!
+Original file line number	Diff line number	Diff line change
+@@ -1,4 +1,3 @@
+
+:root {
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #C0C0C0;
+@@ -14,4 +13,14 @@ body {
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.principal {
+    background-image: url("img/Background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.container {
+    height: 100vh;
+}
